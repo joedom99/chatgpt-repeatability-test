@@ -1,0 +1,11 @@
+run,timestamp,seconds_worked,attributed_to_domaleski,cited_may11_article,citation_level,scoresandstats_treatment,scoresandstats_date_reported,opening_frame,follow_up_referenced,follow_up_date_given,modigliani_miller,source_badges
+1,2026-09-10T10:28:41,28,yes,yes,article,mentioned_no_date,none,earlier_use_first,no,,no,Scores And Stats; Medium; Texas Tech
+2,2026-09-10T10:30:28,19,yes,yes,article,archive_inferred,early 2025 (from site archive),disambiguation,no,,no,Scores And Stats; Medium; Texas Tech
+3,2026-09-10T10:32:44,13,yes,yes,article,not_mentioned,none,credits_domaleski,yes,"June 8, 2025",no,Medium; Texas Tech
+4,2026-09-10T10:34:58,26,yes,yes,article,mentioned_no_date,none,earlier_use_first,no,,no,Scores And Stats; Medium
+5,2026-09-10T10:36:20,19,yes,yes,article,dated,"March 12, 2025",earlier_use_first,yes,none,no,Scores And Stats; Medium; Texas Tech
+6,2026-09-10T10:38:08,31,yes,yes,article,cannot_establish,none,credits_domaleski,yes,none,no,Medium; Texas Tech; USDA Library; Scores And Stats
+7,2026-09-10T10:39:49,15,yes,yes,article,not_mentioned,none,credits_domaleski,yes,"June 8, 2025",no,Medium; USDA Library; Penn State
+8,2026-09-10T10:41:04,25,yes,yes,article,dated,"March 12, 2025",earlier_use_first,yes,June 8 (no year),no,Scores And Stats; Medium; Texas Tech
+9,2026-09-10T10:45:11,27,yes,yes,article,mentioned_no_date,none,credits_domaleski,no,,yes,Medium; Scores And Stats; Texas Tech
+10,2026-09-10T10:46:46,29,yes,yes,article,dated,"March 12, 2025",earlier_use_first,no,,no,Scores And Stats; Medium; Texas Tech
