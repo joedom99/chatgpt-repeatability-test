@@ -15,7 +15,7 @@ Last year I coined a marketing term. On the morning of September 10, 2026, I ask
 
 All ten runs gave me credit. The evidence behind that credit changed almost every time.
 
-The article explains what happened and what it means. This repository is the raw material behind it, so you can check my numbers or disagree with how I read a run.
+The article explains what happened and what it means. This repository is the raw material behind it, so you can check my numbers.
 
 ## What's Inside
 
